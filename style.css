@@ -52,12 +52,15 @@ section{
     background-repeat:no-repeat;
 }
 .middle-area h2{
+    font-size:40px;
     line-height:5px;
     padding-top:190px;
+    font-family: 'Teko', sans-serif;
 }
 .work-area h2{
     font-size:60px;
     text-align:center;
+    font-family: 'Teko', sans-serif;
 }
 .latest-work img{
     width:27%;
@@ -72,6 +75,7 @@ section{
 }
 .client-area h2{
     font-size:50px;
+    font-family: 'Teko', sans-serif;
 }
 .client-name{
     font-size:30px;
@@ -94,6 +98,7 @@ section{
     color:#fff;
     font-size:20px;
     text-align:center;
+    
 }
 .contact-area h3{
     color:#fff;
@@ -110,6 +115,7 @@ section{
     font-size:28px;
     font-weight:bold;
     margin-top:25px;
+    font-family: 'Teko', sans-serif;
 }
 .social-icon{
     text-align:center;

@@ -1,0 +1,126 @@
+body{
+    margin:0;
+    padding:0;
+}
+.half-width h2{
+    font-size:40px;
+    font-family: 'Teko', sans-serif;
+    font-weight:150;
+    padding-top:70px;
+}
+h1{
+    font-size:50px;
+    font-family: 'Teko', sans-serif;
+    color:#EC4D7E;
+}
+.half-width{
+    width:40%;
+    float:left;
+    margin-left:10%;
+}
+.half-width img{
+    width:100%;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.link-button{
+    text-decoration:none;
+    background-color:#EC4D7E;
+    padding:10px 20px;
+    border-radius:5px;
+    color:white;
+    font-weight:bold;
+}
+.top-area{
+    background-image:url("header-bg.png");
+    background-repeat:no-repeat;
+}
+section{
+    height:600px;
+}
+.middle-half-width{
+    width:40%;
+    float:right;
+    margin-right:10%;
+}
+.middle-half-width img{
+    width:100%;
+}
+.middle-area{
+    background-image: url("biography-bg.png");
+    background-repeat:no-repeat;
+}
+.middle-area h2{
+    line-height:5px;
+    padding-top:190px;
+}
+.work-area h2{
+    font-size:60px;
+    text-align:center;
+}
+.latest-work img{
+    width:27%;
+    margin-left:4%;
+}
+.work-area{
+    background-image: url("latest-work-bg.png");
+    background-repeat:no-repeat;
+}
+.client-area{
+    text-align:center;
+}
+.client-area h2{
+    font-size:50px;
+}
+.client-name{
+    font-size:30px;
+    font-family: 'Teko', sans-serif;
+}
+.footer-area{
+    background-image: url("header-bg.png");
+}
+.client-area span{
+    color:gray;
+}
+.contact-area{
+    width:50%;
+    background-color:#EC4D7E;
+    border-radius:8px;
+    padding:50px;
+    margin:auto;
+}
+.contact-area p{
+    color:#fff;
+    font-size:20px;
+    text-align:center;
+}
+.contact-area h3{
+    color:#fff;
+    font-size:30px;
+    text-align:center;
+    font-family:sans-serif;
+}
+.copyright{
+    text-align:center;
+    color:gray;
+}
+#follow-me{
+    text-align:center;
+    font-size:28px;
+    font-weight:bold;
+    margin-top:25px;
+}
+.social-icon{
+    text-align:center;
+}
+.social-icon img{
+    width:50px;
+    height:50px;
+    transition: 0.2s linear;
+}
+.social-icon img:hover{
+    width:60px;
+    height:60px;
+    transform: scale(1.20);
+}
